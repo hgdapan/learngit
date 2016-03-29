@@ -1,1 +1,2 @@
 Testing no-ff.
+Git is a free software.
